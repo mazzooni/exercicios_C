@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.AssemblyInfo.cs
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\idades\idades\bin\Debug\net6.0\idades.exe
+C:\temp\ws-vs2022\idades\idades\bin\Debug\net6.0\idades.deps.json
+C:\temp\ws-vs2022\idades\idades\bin\Debug\net6.0\idades.runtimeconfig.json
+C:\temp\ws-vs2022\idades\idades\bin\Debug\net6.0\idades.dll
+C:\temp\ws-vs2022\idades\idades\bin\Debug\net6.0\idades.pdb
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.dll
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\refint\idades.dll
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.pdb
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\idades.genruntimeconfig.cache
+C:\temp\ws-vs2022\idades\idades\obj\Debug\net6.0\ref\idades.dll

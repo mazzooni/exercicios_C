@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.exe
+C:\temp\ws-vs2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.deps.json
+C:\temp\ws-vs2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.runtimeconfig.json
+C:\temp\ws-vs2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.dll
+C:\temp\ws-vs2022\soma_impares\soma_impares\bin\Debug\net6.0\soma_impares.pdb
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.AssemblyInfo.cs
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.dll
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\refint\soma_impares.dll
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.pdb
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\soma_impares.genruntimeconfig.cache
+C:\temp\ws-vs2022\soma_impares\soma_impares\obj\Debug\net6.0\ref\soma_impares.dll

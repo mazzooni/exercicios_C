@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.exe
+C:\temp\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.deps.json
+C:\temp\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.runtimeconfig.json
+C:\temp\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.dll
+C:\temp\ws-vs2022\Primeiro\Primeiro\bin\Debug\net6.0\Primeiro.pdb
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.AssemblyInfo.cs
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.dll
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\refint\Primeiro.dll
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.pdb
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\Primeiro.genruntimeconfig.cache
+C:\temp\ws-vs2022\Primeiro\Primeiro\obj\Debug\net6.0\ref\Primeiro.dll

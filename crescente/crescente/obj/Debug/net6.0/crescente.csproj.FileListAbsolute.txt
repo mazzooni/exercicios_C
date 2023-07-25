@@ -1,0 +1,15 @@
+C:\temp\ws-vs2022\crescente\crescente\bin\Debug\net6.0\crescente.exe
+C:\temp\ws-vs2022\crescente\crescente\bin\Debug\net6.0\crescente.deps.json
+C:\temp\ws-vs2022\crescente\crescente\bin\Debug\net6.0\crescente.runtimeconfig.json
+C:\temp\ws-vs2022\crescente\crescente\bin\Debug\net6.0\crescente.dll
+C:\temp\ws-vs2022\crescente\crescente\bin\Debug\net6.0\crescente.pdb
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.csproj.AssemblyReference.cache
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.AssemblyInfoInputs.cache
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.AssemblyInfo.cs
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.dll
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\refint\crescente.dll
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.pdb
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\crescente.genruntimeconfig.cache
+C:\temp\ws-vs2022\crescente\crescente\obj\Debug\net6.0\ref\crescente.dll
